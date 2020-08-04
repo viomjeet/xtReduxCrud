@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/xtreduxcrud/static/css/main.8da5e69f.chunk.css",
-    "main.js": "/xtreduxcrud/static/js/main.cacc8b2f.chunk.js",
-    "main.js.map": "/xtreduxcrud/static/js/main.cacc8b2f.chunk.js.map",
-    "runtime-main.js": "/xtreduxcrud/static/js/runtime-main.62c2a1ed.js",
-    "runtime-main.js.map": "/xtreduxcrud/static/js/runtime-main.62c2a1ed.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/xtreduxcrud/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c018cee2.chunk.js": "/xtreduxcrud/static/js/2.c018cee2.chunk.js",
-    "static/js/2.c018cee2.chunk.js.map": "/xtreduxcrud/static/js/2.c018cee2.chunk.js.map",
-    "index.html": "/xtreduxcrud/index.html",
-    "precache-manifest.bd7b36d2988501fb7250701a6e823d57.js": "/xtreduxcrud/precache-manifest.bd7b36d2988501fb7250701a6e823d57.js",
-    "service-worker.js": "/xtreduxcrud/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/xtreduxcrud/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.8da5e69f.chunk.css.map": "/xtreduxcrud/static/css/main.8da5e69f.chunk.css.map",
-    "static/js/2.c018cee2.chunk.js.LICENSE.txt": "/xtreduxcrud/static/js/2.c018cee2.chunk.js.LICENSE.txt"
+    "main.css": "/xtReduxCrud/static/css/main.7142b503.chunk.css",
+    "main.js": "/xtReduxCrud/static/js/main.62e674e8.chunk.js",
+    "main.js.map": "/xtReduxCrud/static/js/main.62e674e8.chunk.js.map",
+    "runtime-main.js": "/xtReduxCrud/static/js/runtime-main.fc29a5ee.js",
+    "runtime-main.js.map": "/xtReduxCrud/static/js/runtime-main.fc29a5ee.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/xtReduxCrud/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c018cee2.chunk.js": "/xtReduxCrud/static/js/2.c018cee2.chunk.js",
+    "static/js/2.c018cee2.chunk.js.map": "/xtReduxCrud/static/js/2.c018cee2.chunk.js.map",
+    "index.html": "/xtReduxCrud/index.html",
+    "precache-manifest.abec86a5eeb31dc33e8a2bc322006f1f.js": "/xtReduxCrud/precache-manifest.abec86a5eeb31dc33e8a2bc322006f1f.js",
+    "service-worker.js": "/xtReduxCrud/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/xtReduxCrud/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.7142b503.chunk.css.map": "/xtReduxCrud/static/css/main.7142b503.chunk.css.map",
+    "static/js/2.c018cee2.chunk.js.LICENSE.txt": "/xtReduxCrud/static/js/2.c018cee2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.62c2a1ed.js",
+    "static/js/runtime-main.fc29a5ee.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.c018cee2.chunk.js",
-    "static/css/main.8da5e69f.chunk.css",
-    "static/js/main.cacc8b2f.chunk.js"
+    "static/css/main.7142b503.chunk.css",
+    "static/js/main.62e674e8.chunk.js"
   ]
 }
